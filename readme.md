@@ -1,2 +1,3 @@
 Creando o repositorio
-Engadindo características.
+Engadindo características.nova
+version
